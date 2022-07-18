@@ -1,6 +1,6 @@
 # FST-Matching
 
-This repo includes the authors' [MegEngine](https://www.megengine.org.cn/) implementation of the [paper]() *Explaining Deepfake Detection by Analysing*
+This repo includes the authors' [MegEngine](https://www.megengine.org.cn/) implementation of the [paper]() *Explaining Deepfake Detection by Analysing* 【ECCV 2022】
 *Image Matching*. 
 
 ## Introduction
