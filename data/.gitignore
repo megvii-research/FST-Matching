@@ -1,0 +1,10 @@
+__pycache__
+/dist/
+/*.egg-info
+/.eggs
+/build/
+*/filelist/*pb2*.py
+*.pyc
+*.log
+tmp*.json
+
