@@ -92,7 +92,7 @@ python3  demo.py --hypothesis 1/2/3
 We currently provide a demo code to train the source/target/detection encoder and the FST-Matching Deepfake Detection Model.
 
 ```
-python3  train.py --dataset ./images --ld ./images/ld.json --model_type source/target/det/FSTMatching
+python3  train.py --dataset ./images --ld ./images/ldm.json --model_type source/target/det/FSTMatching
 ```
 
 #### Testing models
