@@ -109,4 +109,4 @@ Coming soon
 
 ## Contact
 
-If you have any questions, please feel free to contact us via wangjin@megvii.com.
+If you have any questions, please feel free to contact us via jirenhe@megvii.com.
