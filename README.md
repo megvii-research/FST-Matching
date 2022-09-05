@@ -84,7 +84,7 @@ Pretrained models for source/target/detection encoders can be found [here](https
 Results will be saved in the folder *./results*
 
 ```
-python3  demo.py --hypothesis 1/2/3
+python3  demo.py -c configs/res18.cfg --hypothesis 1/2/3
 ```
 
 #### Training models
